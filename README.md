@@ -1,1 +1,1 @@
-# Inside-Airbnb_Trends-And-Patterns
+# Insight-Airbnb_Trends-And-Patterns
